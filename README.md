@@ -4,6 +4,8 @@ Projeyi bilgisayarınıza indirerek kendi görsellerinizi oluşturabilirsiniz.
 
 Projenin altyapısında [Laravel 5.6](https://laravel.com), soyağacının görüntülenmesinde [D3.js](https://d3js.org) kullanılmıştır.
 
+![alt text](https://raw.githubusercontent.com/EnesCakir/soyagaci-donusturucu/master/public/img/example.jpg)
+
 ### Yükleme
 1. PHP 7.1 ve `composer` gerekmektedir. macOS'ta [brew](https://brew.sh/index_tr.html) ile yükleyebilirsiniz
 2. Eğer PDF'ten dönüştürecekseniz `pdftohtml` ve `ghostscript` uygulamaları gerekmektedir.
